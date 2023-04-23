@@ -14,4 +14,4 @@ For questions and support please use [discussions](https://github.com/MineEjo/re
 
 [MIT](https://opensource.org/licenses/MIT)
 
-Copyright (c) 2022-present, MineEjo
+Copyright (c) 2022-2023, [MineEjo](https://github.com/mineejo)
